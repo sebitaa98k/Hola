@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(39, 37, 37);
+}
+
+.img-Escudo{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+.txt-OrigenEscudo{
+    color: white;
+}
